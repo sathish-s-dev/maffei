@@ -45,6 +45,10 @@
   .menu_burgar{
     display: none;
   }
+
+  .cancel{
+    display: none;
+  }
   .nav_section {
     display: flex;
     justify-content: space-between;
