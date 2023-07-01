@@ -16,7 +16,7 @@
     min-height: 100vh;
     display: flex;
     justify-content: center;
-    background: url('./bg1.png') center center no-repeat, linear-gradient(to bottom, #07393d 25%, rgb(0, 0, 0)) center center no-repeat;
+    background: url('./images/bg1.png') center center no-repeat, linear-gradient(to bottom, #07393d 25%, rgb(0, 0, 0)) center center no-repeat;
     /* background: url('https://www.maffei.in/wp-content/uploads/2022/12/bg1.png'); */
     background-size: cover;
   }
@@ -421,7 +421,7 @@
     width: 100vw;
     border: 1px solid black;
     min-height: 72%;
-    background: url("./quote.png") center center/cover, #07393d8b;
+    background: url("./images/quote.png") center center/cover, #07393d8b;
     display: flex;
     align-items: center;
     justify-content: center;
