@@ -624,7 +624,7 @@
 }
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
   .btn {
     padding: 8px 16px;
     font-size: 0.8rem;
