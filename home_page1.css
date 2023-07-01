@@ -262,6 +262,10 @@
     align-items: center;
   }
 
+  .no-space{
+    justify-content: flex-start;
+  }
+
   .float-right {
     float: right;
   }
